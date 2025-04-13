@@ -1,0 +1,13 @@
+# Ignore system files
+AppData/
+*.log
+*.tmp
+*.bak
+
+# Ignore virtual environment directories
+churn_env/
+
+# Ignore IDE/editor specific files
+.vscode/
+.idea/
+*.swp
